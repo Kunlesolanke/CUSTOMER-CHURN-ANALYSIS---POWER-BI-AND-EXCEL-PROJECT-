@@ -1,0 +1,179 @@
+﻿CustomerID,Gender,Age,Tenure,Contract Type,Monthly Charges,Total Charges,Internet Service,Payment Method,Churn
+C001,Male,34,12,Monthly,118,1416,Fiber,Credit Card,Yes
+C002,Female,45,24,Yearly,80,1920,DSL,Bank Transfer,No
+C004,Female,52,36,Yearly,90,3240,DSL,Credit Card,No
+C005,Male,41,18,Quarterly,75,1350,Fiber,UPI,No
+C007,Male,37,48,Yearly,85,4080,DSL,Bank Transfer,No
+C009,Male,46,30,Yearly,95,2850,DSL,Credit Card,No
+C011,Male,39,20,Quarterly,78,1560,Fiber,UPI,No
+C012,Female,50,40,Yearly,88,3520,DSL,Bank Transfer,No
+C014,Female,33,15,Quarterly,72,1080,Fiber,Debit Card,No
+C015,Male,44,28,Yearly,92,2576,DSL,Credit Card,No
+C017,Male,35,22,Quarterly,76,1672,Fiber,Debit Card,No
+C018,Female,48,32,Yearly,90,2880,DSL,Bank Transfer,No
+C020,Female,42,26,Yearly,85,2210,DSL,Credit Card,No
+C021,Male,38,14,Quarterly,74,1036,Fiber,Debit Card,No
+C023,Male,49,35,Yearly,91,3185,DSL,Bank Transfer,No
+C024,Female,36,16,Quarterly,73,1168,Fiber,Credit Card,No
+C026,Female,54,42,Yearly,93,3906,DSL,Bank Transfer,No
+C028,Female,40,21,Quarterly,77,1617,Fiber,UPI,No
+C029,Male,47,34,Yearly,89,3026,DSL,Credit Card,No
+C031,Male,33,13,Quarterly,75,975,Fiber,Debit Card,No
+C032,Female,51,38,Yearly,94,3572,DSL,Bank Transfer,No
+C034,Female,37,19,Quarterly,76,1444,Fiber,Credit Card,No
+C035,Male,43,27,Yearly,88,2376,DSL,Bank Transfer,No
+C037,Male,45,29,Yearly,90,2610,DSL,Credit Card,No
+C039,Male,39,23,Quarterly,78,1794,Fiber,UPI,No
+C040,Female,53,41,Yearly,92,3772,DSL,Bank Transfer,No
+C042,Female,46,30,Yearly,91,2730,DSL,Credit Card,No
+C044,Female,35,18,Quarterly,74,1332,Fiber,UPI,No
+C045,Male,50,36,Yearly,95,3420,DSL,Bank Transfer,No
+C047,Male,41,25,Quarterly,79,1975,Fiber,Credit Card,No
+C048,Female,49,33,Yearly,93,3069,DSL,Bank Transfer,No
+C050,Female,38,20,Quarterly,76,1520,Fiber,Debit Card,No
+C051,Male,44,28,Yearly,89,2492,DSL,Credit Card,No
+C053,Male,36,15,Quarterly,73,1095,Fiber,Debit Card,No
+C054,Female,52,39,Yearly,94,3666,DSL,Bank Transfer,No
+C056,Female,47,31,Yearly,90,2790,DSL,Credit Card,No
+C057,Male,33,14,Quarterly,75,1050,Fiber,UPI,No
+C059,Male,48,34,Yearly,92,3128,DSL,Bank Transfer,No
+C060,Female,39,22,Quarterly,78,1716,Fiber,Credit Card,No
+C062,Female,51,37,Yearly,93,3441,DSL,Bank Transfer,No
+C064,Female,42,24,Yearly,87,2088,DSL,Credit Card,No
+C065,Male,35,17,Quarterly,74,1258,Fiber,Debit Card,No
+C067,Male,46,30,Yearly,91,2730,DSL,Bank Transfer,No
+C068,Female,34,13,Quarterly,76,988,Fiber,UPI,No
+C069,Male,40,26,Yearly,88,2288,DSL,Credit Card,No
+C071,Male,38,21,Quarterly,77,1617,Fiber,UPI,No
+C072,Female,53,41,Yearly,94,3854,DSL,Bank Transfer,No
+C074,Female,44,27,Yearly,89,2403,DSL,Credit Card,No
+C076,Female,41,23,Quarterly,78,1794,Fiber,Debit Card,No
+C077,Male,49,35,Yearly,92,3220,DSL,Bank Transfer,No
+C079,Male,37,18,Quarterly,75,1350,Fiber,Credit Card,No
+C080,Female,52,40,Yearly,93,3720,DSL,Bank Transfer,No
+C082,Female,45,28,Yearly,90,2520,DSL,Credit Card,No
+C084,Female,39,20,Quarterly,76,1520,Fiber,UPI,No
+C085,Male,47,33,Yearly,91,3003,DSL,Bank Transfer,No
+C087,Male,36,16,Quarterly,74,1184,Fiber,Credit Card,No
+C088,Female,50,38,Yearly,94,3572,DSL,Bank Transfer,No
+C090,Female,42,24,Yearly,87,2088,DSL,Credit Card,No
+C092,Female,48,34,Yearly,92,3128,DSL,Bank Transfer,No
+C093,Male,33,14,Quarterly,75,1050,Fiber,Debit Card,No
+C095,Male,41,25,Quarterly,79,1975,Fiber,Credit Card,No
+C096,Female,54,42,Yearly,93,3906,DSL,Bank Transfer,No
+C098,Female,46,30,Yearly,91,2730,DSL,Credit Card,No
+C099,Male,35,18,Quarterly,74,1332,Fiber,UPI,No
+C102,Female,45,24,Yearly,88,2112,DSL,Credit Card,No
+C104,Female,52,36,Yearly,92,3312,DSL,Bank Transfer,No
+C105,Male,41,18,Quarterly,76,1368,Fiber,UPI,No
+C107,Male,37,48,Yearly,90,4320,DSL,Bank Transfer,No
+C109,Male,46,30,Yearly,95,2850,DSL,Credit Card,No
+C111,Male,39,20,Quarterly,78,1560,Fiber,Debit Card,No
+C112,Female,50,40,Yearly,91,3640,DSL,Bank Transfer,No
+C114,Female,33,15,Quarterly,74,1110,Fiber,Credit Card,No
+C115,Male,44,28,Yearly,89,2492,DSL,Bank Transfer,No
+C117,Male,35,22,Quarterly,77,1694,Fiber,Debit Card,No
+C118,Female,48,32,Yearly,90,2880,DSL,Credit Card,No
+C120,Female,42,26,Yearly,87,2262,DSL,Bank Transfer,No
+C121,Male,38,14,Quarterly,75,1050,Fiber,UPI,No
+C123,Male,49,35,Yearly,92,3220,DSL,Credit Card,No
+C124,Female,36,16,Quarterly,73,1168,Fiber,UPI,No
+C126,Female,54,42,Yearly,94,3948,DSL,Bank Transfer,No
+C128,Female,40,21,Quarterly,78,1638,Fiber,UPI,No
+C129,Male,47,34,Yearly,91,3094,DSL,Credit Card,No
+C131,Male,33,13,Quarterly,75,975,Fiber,Debit Card,No
+C132,Female,51,38,Yearly,93,3534,DSL,Bank Transfer,No
+C134,Female,37,19,Quarterly,76,1444,Fiber,Credit Card,No
+C135,Male,43,27,Yearly,88,2376,DSL,Bank Transfer,No
+C137,Male,45,29,Yearly,90,2610,DSL,Credit Card,No
+C139,Male,39,23,Quarterly,79,1817,Fiber,UPI,No
+C140,Female,53,41,Yearly,92,3772,DSL,Bank Transfer,No
+C142,Female,46,30,Yearly,91,2730,DSL,Credit Card,No
+C144,Female,35,18,Quarterly,75,1350,Fiber,UPI,No
+C145,Male,50,36,Yearly,95,3420,DSL,Bank Transfer,No
+C147,Male,41,25,Quarterly,78,1950,Fiber,Credit Card,No
+C148,Female,49,33,Yearly,92,3036,DSL,Bank Transfer,No
+C150,Female,38,20,Quarterly,77,1540,Fiber,Debit Card,No
+C151,Male,44,28,Yearly,89,2492,DSL,Credit Card,No
+C153,Male,36,15,Quarterly,74,1110,Fiber,Debit Card,No
+C154,Female,52,39,Yearly,94,3666,DSL,Bank Transfer,No
+C156,Female,47,31,Yearly,90,2790,DSL,Credit Card,No
+C157,Male,33,14,Quarterly,75,1050,Fiber,UPI,No
+C159,Male,48,34,Yearly,92,3128,DSL,Bank Transfer,No
+C160,Female,39,22,Quarterly,78,1716,Fiber,Credit Card,No
+C162,Female,51,37,Yearly,93,3441,DSL,Bank Transfer,No
+C164,Female,42,24,Yearly,87,2088,DSL,Credit Card,No
+C165,Male,35,17,Quarterly,74,1258,Fiber,Debit Card,No
+C167,Male,46,30,Yearly,91,2730,DSL,Bank Transfer,No
+C168,Female,34,13,Quarterly,76,988,Fiber,UPI,No
+C169,Male,40,26,Yearly,88,2288,DSL,Credit Card,No
+C171,Male,38,21,Quarterly,77,1617,Fiber,UPI,No
+C172,Female,53,41,Yearly,94,3854,DSL,Bank Transfer,No
+C174,Female,44,27,Yearly,89,2403,DSL,Credit Card,No
+C176,Female,41,23,Quarterly,78,1794,Fiber,Debit Card,No
+C177,Male,49,35,Yearly,92,3220,DSL,Bank Transfer,No
+C003,Male,29,6,Monthly,118,708,Fiber,UPI,Yes
+C006,Female,23,3,Monthly,132,396,Fiber,Debit Card,Yes
+C008,Female,31,10,Monthly,104,1040,Fiber,UPI,Yes
+C010,Female,28,8,Monthly,125,1000,Fiber,Debit Card,Yes
+C013,Male,27,5,Monthly,139,695,Fiber,UPI,Yes
+C016,Female,26,7,Monthly,112,784,Fiber,UPI,Yes
+C019,Male,30,9,Monthly,136,1224,Fiber,UPI,Yes
+C022,Female,25,4,Monthly,121,484,Fiber,UPI,Yes
+C025,Male,28,6,Monthly,109,654,Fiber,UPI,Yes
+C027,Male,32,11,Monthly,130,1430,Fiber,Debit Card,Yes
+C030,Female,29,8,Monthly,140,1120,Fiber,UPI,Yes
+C033,Male,24,2,Monthly,117,234,Fiber,UPI,Yes
+C036,Female,31,10,Monthly,103,1030,Fiber,UPI,Yes
+C038,Female,27,6,Monthly,128,768,Fiber,Debit Card,Yes
+C041,Male,34,12,Monthly,134,1608,Fiber,UPI,Yes
+C043,Male,28,7,Monthly,120,840,Fiber,Debit Card,Yes
+C046,Female,26,5,Monthly,137,685,Fiber,UPI,Yes
+C049,Male,30,9,Monthly,111,999,Fiber,UPI,Yes
+C052,Female,23,3,Monthly,123,369,Fiber,UPI,Yes
+C055,Male,29,6,Monthly,105,630,Fiber,UPI,Yes
+C058,Female,25,4,Monthly,126,504,Fiber,Debit Card,Yes
+C061,Male,27,5,Monthly,138,690,Fiber,UPI,Yes
+C063,Male,31,11,Monthly,114,1254,Fiber,UPI,Yes
+C066,Female,28,7,Monthly,133,931,Fiber,UPI,Yes
+C070,Female,24,2,Monthly,122,244,Fiber,Debit Card,Yes
+C073,Male,29,6,Monthly,101,606,Fiber,UPI,Yes
+C075,Male,32,10,Monthly,129,1290,Fiber,UPI,Yes
+C078,Female,30,9,Monthly,135,1215,Fiber,UPI,Yes
+C081,Male,26,5,Monthly,116,580,Fiber,UPI,Yes
+C083,Male,34,12,Monthly,107,1284,Fiber,Debit Card,Yes
+C086,Female,28,7,Monthly,140,980,Fiber,UPI,Yes
+C089,Male,31,11,Monthly,124,1364,Fiber,UPI,Yes
+C091,Male,27,6,Monthly,131,786,Fiber,UPI,Yes
+C094,Female,25,4,Monthly,113,452,Fiber,UPI,Yes
+C097,Male,29,6,Monthly,106,636,Fiber,UPI,Yes
+C100,Female,23,3,Monthly,127,381,Fiber,Debit Card,Yes
+C101,Male,34,12,Monthly,139,1668,Fiber,UPI,Yes
+C103,Male,29,5,Monthly,118,590,Fiber,Debit Card,Yes
+C106,Female,23,2,Monthly,136,272,Fiber,UPI,Yes
+C108,Female,31,9,Monthly,102,918,Fiber,Debit Card,Yes
+C110,Female,28,7,Monthly,134,938,Fiber,UPI,Yes
+C113,Male,27,4,Monthly,119,476,Fiber,UPI,Yes
+C116,Female,26,6,Monthly,110,660,Fiber,UPI,Yes
+C119,Male,30,8,Monthly,125,1000,Fiber,UPI,Yes
+C122,Female,25,3,Monthly,137,411,Fiber,Debit Card,Yes
+C125,Male,28,5,Monthly,104,520,Fiber,UPI,Yes
+C127,Male,32,10,Monthly,121,1210,Fiber,Debit Card,Yes
+C130,Female,29,7,Monthly,138,966,Fiber,UPI,Yes
+C133,Male,24,2,Monthly,115,230,Fiber,UPI,Yes
+C136,Female,31,10,Monthly,103,1030,Fiber,UPI,Yes
+C138,Female,27,6,Monthly,130,780,Fiber,Debit Card,Yes
+C141,Male,34,11,Monthly,135,1485,Fiber,UPI,Yes
+C143,Male,28,6,Monthly,126,756,Fiber,Debit Card,Yes
+C146,Female,26,5,Monthly,140,700,Fiber,UPI,Yes
+C149,Male,30,9,Monthly,108,972,Fiber,UPI,Yes
+C152,Female,23,2,Monthly,123,246,Fiber,UPI,Yes
+C155,Male,29,5,Monthly,101,505,Fiber,UPI,Yes
+C158,Female,25,3,Monthly,129,387,Fiber,Debit Card,Yes
+C161,Male,27,4,Monthly,136,544,Fiber,UPI,Yes
+C163,Male,31,10,Monthly,112,1120,Fiber,UPI,Yes
+C166,Female,28,6,Monthly,133,798,Fiber,UPI,Yes
+C170,Female,24,2,Monthly,120,240,Fiber,Debit Card,Yes
+C173,Male,29,5,Monthly,105,525,Fiber,UPI,Yes
+C175,Male,32,10,Monthly,127,1270,Fiber,UPI,Yes
+C178,Female,30,8,Monthly,139,1112,Fiber,UPI,Yes
