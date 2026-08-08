@@ -61,3 +61,8 @@ Documented the project on GitHub with a README covering the business problem, to
 Published the Power BI report for interactive viewing
 
 ## DASHBOARD IMAGES 
+<img width="1324" height="622" alt="PJ PIC" src="https://github.com/user-attachments/assets/0dfaa4a4-254e-427d-bc27-e638cf2f8899" />
+<img width="1968" height="1128" alt="MALE" src="https://github.com/user-attachments/assets/d476ffcb-4f4c-4bff-8d12-44f9744f1b86" /> 
+<img width="1968" height="1128" alt="FEMALE" src="https://github.com/user-attachments/assets/37851bc3-0d3f-471c-bcf2-f33ec79336e2" />
+
+
