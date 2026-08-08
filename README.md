@@ -65,4 +65,14 @@ Published the Power BI report for interactive viewing
 <img width="1968" height="1128" alt="MALE" src="https://github.com/user-attachments/assets/d476ffcb-4f4c-4bff-8d12-44f9744f1b86" /> 
 <img width="1968" height="1128" alt="FEMALE" src="https://github.com/user-attachments/assets/37851bc3-0d3f-471c-bcf2-f33ec79336e2" />
 
+## Conclusion
 
+This project analyzed churn behavior across 178 customers to identify who is leaving, why they're leaving, and where the business should focus its retention efforts. The analysis revealed a clear and consistent pattern: churn in this customer base is not random — it is heavily concentrated among specific, identifiable segments. Customers on monthly contracts, those in their first ten months of tenure, and those paying higher monthly charges consistently showed the highest likelihood of churning. This tells a coherent story: newer customers on flexible, low-commitment plans are the most vulnerable to leaving, especially once billing costs rise.
+
+The dashboard also surfaced a payment-method pattern worth investigating further — customers using UPI churned at a noticeably higher rate than those on Debit or Credit Card, suggesting the payment experience itself may be contributing to dissatisfaction or disengagement. Demographically, churn was fairly balanced between male and female customers, meaning gender is not a meaningful driver on its own — but middle-aged and senior customers churned more than younger customers, pointing to a need for age-tailored retention strategies rather than a one-size-fits-all approach.
+
+Overall, with a 37% churn rate, more than one in three customers are at risk — a figure significant enough to justify immediate, targeted intervention rather than broad, generic retention campaigns.
+
+## Key Insight
+
+Churn in this business is a tenure and contract problem before it is anything else. The data shows that customers who are new and uncommitted (short tenure, monthly contracts) are the ones leaving — meaning the business's biggest opportunity isn't complex demographic targeting, but a simple structural fix: converting customers to longer contracts early and strengthening the first few months of the customer relationship. If the business acts on just two levers — improving early-tenure onboarding and incentivizing annual contracts — it directly addresses the two strongest churn drivers identified in this analysis, and stands to meaningfully reduce the 37% churn rate.
