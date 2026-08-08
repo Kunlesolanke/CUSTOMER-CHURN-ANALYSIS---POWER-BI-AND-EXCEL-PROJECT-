@@ -59,3 +59,5 @@ Translated insights into actionable business recommendations for reducing churn
 Exported dashboard views and insights into a PDF report
 Documented the project on GitHub with a README covering the business problem, tools used, process, KPIs, insights, and recommendations
 Published the Power BI report for interactive viewing
+
+## DASHBOARD IMAGES 
