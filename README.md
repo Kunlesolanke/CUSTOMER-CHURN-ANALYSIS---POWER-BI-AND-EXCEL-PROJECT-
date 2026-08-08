@@ -3,3 +3,12 @@
  
 ## The dataset used
 https://1drv.ms/x/c/B35DBD2D8A213BFB/IQDRFaSXvwEaT5i1tr6AJzkKAQ27YqqZ6tlq2YMA6j1-uIE?e=SaMUoS   
+
+## Business Questions to solve 
+1. What is the overall customer churn rate?
+2. Which customer segments (contract type, tenure, payment method) churn the most?
+3. Is there a relationship between monthly charges and churn?
+4. Do newer customers churn more than long-tenured ones?
+5. Which services (internet, streaming, tech support) correlate with higher/lower churn?
+6. How much revenue is being lost to churn?
+7. What's the churn trend over time (if date data is available)?
