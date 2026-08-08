@@ -12,3 +12,6 @@ https://1drv.ms/x/c/B35DBD2D8A213BFB/IQDRFaSXvwEaT5i1tr6AJzkKAQ27YqqZ6tlq2YMA6j1
 5. Which services (internet, streaming, tech support) correlate with higher/lower churn?
 6. How much revenue is being lost to churn?
 7. What's the churn trend over time (if date data is available)?
+8. Does gender have any influence on customer churn?
+9. Which contract type has the highest churn rate?
+10. Which age group is most likely to churn?
