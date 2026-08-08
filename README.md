@@ -15,3 +15,6 @@ https://1drv.ms/x/c/B35DBD2D8A213BFB/IQDRFaSXvwEaT5i1tr6AJzkKAQ27YqqZ6tlq2YMA6j1
 8. Does gender have any influence on customer churn?
 9. Which contract type has the highest churn rate?
 10. Which age group is most likely to churn?
+
+## LINK TO FULL PROJECT
+https://1drv.ms/b/c/B35DBD2D8A213BFB/IQAojGRG2CB1QrT9atcTrzf7ASFGBD01JytIwoFlwq_bqng?e=QBuOIX
